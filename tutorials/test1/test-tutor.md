@@ -10,4 +10,4 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 [VALIDATE_1]
 some content inside [ACCORDION-END]
 
-[VALIDATE_1]
+[VALIDATE_2]
