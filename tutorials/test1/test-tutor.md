@@ -6,7 +6,4 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 
 ---
 
-## Prerequisites
-sample text
-
 [ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]
