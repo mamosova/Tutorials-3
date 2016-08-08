@@ -6,4 +6,7 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 
 ---
 
-[ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]
+[ACCORDION-BEGIN [STEP 1](#the first step)]
+[Validate_1]
+some content inside [ACCORDION-END]
+
