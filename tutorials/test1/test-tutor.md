@@ -11,5 +11,5 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 some content inside [ACCORDION-END]
 
 [VALIDATE_2]
-some new shit
+some new simple shit
 
