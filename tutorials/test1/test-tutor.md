@@ -11,4 +11,5 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 some content inside [ACCORDION-END]
 
 [VALIDATE_2]
+[VALIDATE_3]
 new tut
