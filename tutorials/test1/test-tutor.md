@@ -48,14 +48,9 @@ dfasfsadfsadf
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
 [ACCORDION-END]      
 [ACCORDION-BEGIN [STEP 2](#step2)]
-[STEP 2]
-###Rule
-regex-substring
-###Question
-Enter _setModel code block
-###Match
-some multi-line code block
-[STEP 2 - END]
+ [VALIDATE_2]
+ 2. Select the *Destinations* tab on the left side, and then click on *New Destination* to open a new destination configuration form.
+ ![Web IDE Destination tab](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_2.png)
 [ACCORDION-END]
 
 124124124     
