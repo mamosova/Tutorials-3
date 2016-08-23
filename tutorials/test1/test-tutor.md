@@ -22,6 +22,12 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-BEGIN [STEP 2](#step2)]
 [VALIDATE_2]
 [ACCORDION-END]
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_3]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_4]
+[ACCORDION-END]
 
 >### Some апав
 <script>
